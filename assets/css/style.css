@@ -1,0 +1,171 @@
+*{
+    box-sizing: border-box;
+
+    
+}
+body{
+    width: 960px;
+    /* margin: 0 auto; */
+    background-image: url("intersection/intersection.png");
+    margin-left:auto;
+    margin-right:auto;
+   
+button{
+    background:#4aaaa5;
+    
+}
+}
+.pc{
+    background: #4aaaa5;
+    color: #ffffff;
+    float: left;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    padding-top: 10px;
+    padding-right: 22.5px;
+    padding-left: 22.5px;
+    padding-bottom: 1px;
+    max-width:fit-content;
+    font-size: 24px;
+    position: fixed;
+    top: -10px;
+    
+}
+.apc{
+    float: right;
+    margin-bottom: 0px;
+
+}
+#contact{
+    clear: both;
+    border-top-style: solid;
+    
+}
+h2{
+    margin-top: 0px;
+}
+
+form{
+    padding:25px;
+    background:#cccccc;
+
+}
+
+input{
+    margin: 10px;
+
+}
+.first{
+    float: right;
+    /* word-wrap: break-word; */
+    width: 70%;
+    font-family:'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
+    text-align:justify;
+
+}
+.second{
+    clear:both;
+    text-align:justify;
+    font-size: 24px;
+
+
+}
+.profpic{
+    float:left;
+
+}
+#amone{
+    color: #4aaaa5;
+    border-top-style:solid;
+    border-color:#dddddd;
+    margin-bottom: 0px;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+
+}
+footer{
+    background:#666666;
+    text-align:center;
+    padding:10px;
+    color:#ebebeb;
+    position:fixed;
+    width:100%;
+    bottom:0;
+    left:0;
+
+}
+
+hr{
+    size:10px;
+    left:0;
+    right:0;
+}
+
+a{
+    color:#666666;
+    text-decoration:none;
+    padding:15px;
+
+}
+
+#as1{
+    float:left;
+    color:#ebebeb;
+    background-color: #4aaaa5;
+    /* padding: 20px; */
+    overflow: auto;
+    margin-top: 20px;
+    height:400px;
+    width:400px;
+    opacity:1.0;
+
+}
+
+#as2{
+    float:right;
+    color:#ebebeb;
+    background-color: #4aaaa5;
+    /* padding: 20px; */
+    overflow: auto;
+    margin-top: 20px;
+    height:400px;
+    width:400px;
+    text-align:center;
+    font:24px;
+    
+}
+
+#lim{
+    /* position:relative; */
+    /* bottom:0; */
+    /* opacity:0.5; */
+    /* max-width:75%;
+    max-height:75%; */
+    /* clear:both; */
+    /* align-content:center; */
+}
+
+#lim2{
+    /* clear:both; */
+    /* bottom:0; */
+    /* opacity:0.5; */
+
+    
+}
+
+li{
+    padding:10px;
+    margin:5px;
+    background:#355D80;
+
+}
+
+img{
+    max-width:300px;
+    max-height:300px;
+    
+
+}
+
+.blank{
+    target:"blank";
+
+}
